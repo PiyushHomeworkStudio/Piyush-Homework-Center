@@ -1,7 +1,0 @@
-{
-  "name": "Piyush Homework Center",
-  "description": "A premium, professional handwritten homework completion service platform with user dashboards and admin controls.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
